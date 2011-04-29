@@ -1,1 +1,1 @@
-Sample sandbox for Nette framework
+Sample sandbox for Nette framework 2 dev
